@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Dr. Emily Parker",
+        "experience": "15 years",
+        "specialty": "Cardiology",
+        "image": "https://img.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg",
+        "about": "Dr. Emily Parker is a renowned cardiologist with over 15 years of experience in diagnosing and treating heart-related conditions. She is known for her compassionate and patient-centric approach, putting her patients at ease while providing expert care. Dr. Parker is a strong advocate for preventive cardiology and actively promotes healthy lifestyle choices to improve heart health."
+    },
+    {
+        "name": "Dr. Michael Ramirez",
+        "experience": "12 years",
+        "specialty": "Orthopedics",
+        "image": "https://img.freepik.com/free-photo/attractive-young-male-nutriologist-lab-coat-smiling-against-white-background_662251-2960.jpg",
+        "about": "Dr. Michael Ramirez is a skilled orthopedic surgeon with 12 years of experience in managing musculoskeletal issues. He has a remarkable track record of successful joint replacements and sports injury treatments. Dr. Ramirez is committed to helping his patients regain mobility and live pain-free lives, utilizing both surgical and non-surgical approaches to meet individual needs."
+    },
+    {
+        "name": "Dr. Sarah Thompson",
+        "experience": "10 years",
+        "specialty": "Pediatrics",
+        "image": "https://img.freepik.com/free-photo/portrait-smiling-young-woman-doctor-healthcare-medical-worker-pointing-fingers-left-showing-clini_1258-88108.jpg?w=2000",
+        "about": "Dr. Sarah Thompson is a compassionate pediatrician with 10 years of experience in caring for children of all ages. Her warm and friendly demeanor creates a welcoming environment for young patients, making visits to the doctor a positive experience. Dr. Thompson is dedicated to providing comprehensive care and promoting the overall health and well-being of her little patients."
+    },
+    {
+        "name": "Dr. David Lee",
+        "experience": "20 years",
+        "specialty": "Dermatology",
+        "image": "https://media.istockphoto.com/id/1327024466/photo/portrait-of-male-doctor-in-white-coat-and-stethoscope-standing-in-clinic-hall.jpg?s=612x612&w=0&k=20&c=49wqOwwuonk9f8NACL7M_5RosqQPFwJ8-dpmeo9AvQw=",
+        "about": "Dr. David Lee is a highly skilled dermatologist with two decades of experience in diagnosing and treating various skin conditions. He stays updated with the latest advancements in dermatology to offer the best treatment options to his patients. Dr. Lee is passionate about skincare education and believes in empowering his patients to make informed decisions about their skin health."
+    },
+    {
+        "name": "Dr. Jennifer Adams",
+        "experience": "8 years",
+        "specialty": "Gynecology",
+        "image": "https://media.istockphoto.com/id/1346711310/photo/portrait-of-smiling-female-doctor-wearing-uniform-standing.webp?b=1&s=170667a&w=0&k=20&c=MP4Uz3zLO_2i8WGmcYaQgz8mOh2IrRjf5byFhqKRroY=",
+        "about": "Dr. Jennifer Adams is a dedicated gynecologist with 8 years of experience in women's healthcare. She provides comprehensive gynecological services, including routine check-ups, family planning, and menopause management. Dr. Adams strives to create a comfortable and open environment for her patients, ensuring they receive the highest quality care with utmost confidentiality."
+    },
+    {
+        "name": "Dr. Robert Johnson",
+        "experience": "18 years",
+        "specialty": "Oncology",
+        "image": "https://img.freepik.com/premium-photo/covid-19-coronavirus-outbreak-healthcare-workers-pandemic-concept_1258-19738.jpg",
+        "about": "Dr. Robert Johnson is an accomplished oncologist with 18 years of experience in treating cancer patients. His expertise lies in personalized cancer therapies and compassionate care for patients and their families. Dr. Johnson is dedicated to staying at the forefront of cancer research and treatment options, offering hope and support to those affected by this challenging disease."
+    }
+]

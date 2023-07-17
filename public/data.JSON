@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "img": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2020/05/pediatrician-baby-doctor-1296x728-header.jpg?w=1155&h=1528",
+        "name": "Pediatrics",
+        "descrption": "Our pediatric services focus on the specialized care and well-being of infants, children, and adolescents. We provide routine check-ups, vaccinations, developmental assessments, and treatment for childhood illnesses.",
+        "cost": "Tk 10000",
+        "doc": "Dr. Michael Anderson (Pediatrics)"
+    },
+    {
+        "id": 2,
+        "img": "https://www.goodmanmedicalspa.com/wp-content/uploads/flu-diabetes.jpg",
+        "name": "Women's Health",
+        "descrption": "Our gynecological services cater to women's unique healthcare needs. We offer family planning, prenatal care, menopause management, and other women's health services.",
+        "cost": "Tk 6000",
+        "doc": "Dr. Lisa Roberts (Obstetrics and Gynecology)"
+    },
+    {
+        "id": 3,
+        "img": "https://bansalhospital.com/wp-content/uploads/2019/01/cardiology1.jpg",
+        "name": "Cardiology",
+        "descrption": "Our cardiology department specializes in diagnosing and treating heart-related conditions. We provide comprehensive cardiac evaluations, diagnostic tests, and personalized treatment plans for heart health.",
+        "cost": "Tk 12000",
+        "doc": "Dr. William Evans (Cardiology)"
+    },
+    {
+        "id": 4,
+        "img": "https://www.sutterhealth.org/images/health-topics/dermatology/man-at-cosmetician-584x285.jpg",
+        "name": "Dermatology",
+        "descrption": "Our dermatology services focus on diagnosing and treating various skin conditions, including acne, eczema, psoriasis, and skin cancer. We also provide cosmetic dermatology treatments.",
+        "cost": "Tk 10000",
+        "doc": "Dr. David Lee (Dermatology)"
+    },
+    {
+        "id": 5,
+        "img": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/2/GettyImages-1214221095.jpg.rend.hgtvcom.441.294.suffix/1612301517364.jpeg",
+        "name": "Nutrition and Wellness",
+        "descrption": "Our nutritionists and wellness experts provide guidance on healthy eating habits and lifestyle changes to promote overall well-being.",
+        "cost": "Tk 5000",
+        "doc": "Dr. Michelle Lee (Nutritionist)"
+    },
+    {
+        "id": 6,
+        "img": "https://images.seattletimes.com/wp-content/uploads/2021/11/WEB-main-GettyImages-1281125900.jpg?d=1560x1040",
+        "name": "Mental Health and Counseling",
+        "descrption": "We recognize the importance of mental health and offer counseling services to support patients facing emotional or psychological challenges.",
+        "cost": "Tk 7000",
+        "doc": "Dr. Elizabeth Scott (Psychiatry)"
+    }
+]
